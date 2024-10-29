@@ -61,7 +61,7 @@ const Home = () => {
 
       <div className="flex justify-around items-center bg-[#1A1A32] my-14">
         <p className="text-[#FFF3E1] font-jomolhari text-5xl w-72 leading-normal tracking-widest	">Sell Your Book Now </p>
-        <img src="/Rebooks/../../../public/HomeImgs/SellYourBookNow.png" className='w-[485px] h-[250px] my-16' alt="" />
+        <img src={import.meta.env.BASE_URL + "../../../public/HomeImgs/SellYourBookNow.png"} className='w-[485px] h-[250px] my-16' alt="" />
       </div>
 
       {/* Premium Section */}
