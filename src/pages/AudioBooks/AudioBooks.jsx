@@ -15,7 +15,7 @@ const AudioBooks = () => {
     <div>
       <Header/>
 
-      <BooksSubHeader imgUrl={"../../../public/AudioPage/card_img.png"} title={"AUDIOBOOKS"} description={"If you're attracted to the adventure of audiobooks but hesitate to dive in, Rebook offers you a unique opportunity to get your hands on your favorite audiobook by your favorite author!"}/>
+      <BooksSubHeader imgUrl={"./card_img.png"} title={"AUDIOBOOKS"} description={"If you're attracted to the adventure of audiobooks but hesitate to dive in, Rebook offers you a unique opportunity to get your hands on your favorite audiobook by your favorite author!"}/>
       
       <Subscribe/>
 

@@ -10,7 +10,7 @@ const PDFBooks = () => {
     <div>
       <Header/>
 
-      <BooksSubHeader imgUrl={"../../../public/PDFPage/PDF_img.png"} title={"PDF BOOKS"} description={"Welcome to REBOOKS! If you're intrigued by the world of digital reading but haven't quite embarked on the journey, we invite you to explore your favorite books in PDF format from cherished authors!"}/>
+      <BooksSubHeader imgUrl={"./PDF_img.png"} title={"PDF BOOKS"} description={"Welcome to REBOOKS! If you're intrigued by the world of digital reading but haven't quite embarked on the journey, we invite you to explore your favorite books in PDF format from cherished authors!"}/>
 
       <Subscribe/>
 

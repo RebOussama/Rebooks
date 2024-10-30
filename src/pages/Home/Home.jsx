@@ -8,28 +8,28 @@ import Footer from '../../components/Footer';
 
 
 const BooksOnSale=[
-  {title:"The Teacher ",author:"Freida Mcfadden",imgUrl:"../../../public/HomeImgs/BooksOnSale/1.png"},
-  {title:"The Women ",author:"Kristin Hannah",imgUrl:"../../../public/HomeImgs/BooksOnSale/2.png"},
-  {title:"Dune ",author:"Frank Herbert",imgUrl:"../../../public/HomeImgs/BooksOnSale/3.png"},
-  {title:"The Teacher ",author:"Freida Mcfadden",imgUrl:"../../../public/HomeImgs/BooksOnSale/1.png"},
-  {title:"The Women ",author:"Kristin Hannah",imgUrl:"../../../public/HomeImgs/BooksOnSale/2.png"},
-  {title:"Dune ",author:"Frank Herbert",imgUrl:"../../../public/HomeImgs/BooksOnSale/3.png"},
-  {title:"The Teacher ",author:"Freida Mcfadden",imgUrl:"../../../public/HomeImgs/BooksOnSale/1.png"},
-  {title:"The Women ",author:"Kristin Hannah",imgUrl:"../../../public/HomeImgs/BooksOnSale/2.png"},
-  {title:"Dune ",author:"Frank Herbert",imgUrl:"../../../public/HomeImgs/BooksOnSale/3.png"},
+  {title:"The Teacher ",author:"Freida Mcfadden",imgUrl:"./1.png"},
+  {title:"The Women ",author:"Kristin Hannah",imgUrl:"./2.png"},
+  {title:"Dune ",author:"Frank Herbert",imgUrl:"./3.png"},
+  {title:"The Teacher ",author:"Freida Mcfadden",imgUrl:"./1.png"},
+  {title:"The Women ",author:"Kristin Hannah",imgUrl:"./2.png"},
+  {title:"Dune ",author:"Frank Herbert",imgUrl:"./3.png"},
+  {title:"The Teacher ",author:"Freida Mcfadden",imgUrl:"./1.png"},
+  {title:"The Women ",author:"Kristin Hannah",imgUrl:"./2.png"},
+  {title:"Dune ",author:"Frank Herbert",imgUrl:"./3.png"},
 
 
 ]
 const BooksForExchange=[
-  {title:"What Do You Really Want",author:"Cayla Craft",imgUrl:"../../../public/HomeImgs/BooksForExchange/1.png"},
-  {title:"I Cheerfully Refuse",author:"Leif Enger",imgUrl:"../../../public/HomeImgs/BooksForExchange/2.png"},
-  {title:"TRESS OF THE EMERALD SEA",author:"Brandon Sanderson",imgUrl:"../../../public/HomeImgs/BooksForExchange/3.png"},
-  {title:"What Do You Really Want",author:"Cayla Craft",imgUrl:"../../../public/HomeImgs/BooksForExchange/1.png"},
-  {title:"I Cheerfully Refuse",author:"Leif Enger",imgUrl:"../../../public/HomeImgs/BooksForExchange/2.png"},
-  {title:"TRESS OF THE EMERALD SEA",author:"Brandon Sanderson",imgUrl:"../../../public/HomeImgs/BooksForExchange/3.png"},
-  {title:"What Do You Really Want",author:"Cayla Craft",imgUrl:"../../../public/HomeImgs/BooksForExchange/1.png"},
-  {title:"I Cheerfully Refuse",author:"Leif Enger",imgUrl:"../../../public/HomeImgs/BooksForExchange/2.png"},
-  {title:"TRESS OF THE EMERALD SEA",author:"Brandon Sanderson",imgUrl:"../../../public/HomeImgs/BooksForExchange/3.png"},
+  {title:"What Do You Really Want",author:"Cayla Craft",imgUrl:"./1.png"},
+  {title:"I Cheerfully Refuse",author:"Leif Enger",imgUrl:"./2.png"},
+  {title:"TRESS OF THE EMERALD SEA",author:"Brandon Sanderson",imgUrl:"./3.png"},
+  {title:"What Do You Really Want",author:"Cayla Craft",imgUrl:"./1.png"},
+  {title:"I Cheerfully Refuse",author:"Leif Enger",imgUrl:"./2.png"},
+  {title:"TRESS OF THE EMERALD SEA",author:"Brandon Sanderson",imgUrl:"./3.png"},
+  {title:"What Do You Really Want",author:"Cayla Craft",imgUrl:"./1.png"},
+  {title:"I Cheerfully Refuse",author:"Leif Enger",imgUrl:"./2.png"},
+  {title:"TRESS OF THE EMERALD SEA",author:"Brandon Sanderson",imgUrl:"./3.png"},
 
 ]
 const Home = () => {
@@ -44,7 +44,7 @@ const Home = () => {
             Buy, Sell And Exchange Book Now!
         </div>
         <div className="rightSection">
-            <img src="../../../public/HomeImgs/Hero.png" alt="" />
+            <img src="./Hero.png" alt="" />
         </div>
       </div>
       {/* Books On Sale Section */}
@@ -61,7 +61,7 @@ const Home = () => {
 
       <div className="flex justify-around items-center bg-[#1A1A32] my-14">
         <p className="text-[#FFF3E1] font-jomolhari text-5xl w-72 leading-normal tracking-widest	">Sell Your Book Now </p>
-        <img src={import.meta.env.BASE_URL + "../../../public/HomeImgs/SellYourBookNow.png"} className='w-[485px] h-[250px] my-16' alt="" />
+        <img src="./SellYourBookNow.png" className='w-[485px] h-[250px] my-16' alt="" />
       </div>
 
       {/* Premium Section */}

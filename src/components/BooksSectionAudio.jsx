@@ -13,21 +13,21 @@ const BooksSectionAudio = ({title,books,author}) => {
         item.categorie===title ? <CardBook/>:""
     )
 })} */}
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
-       <CardBookAudio imgURL={"../../../public/AudioPage/audiobooks/book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
+       <CardBookAudio imgURL={"./book1.png" } title={"Alone"} author={"JACK HARRISON"}/>
        
        
        

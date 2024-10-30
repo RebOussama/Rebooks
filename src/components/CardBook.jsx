@@ -6,7 +6,7 @@ import { BiSolidMessageDetail  } from "react-icons/bi";
 const CardBook = ({type,book}) => {
   return (
     <div className='w-56  shadow-lg'>
-      <img className='w-full ' src={book.imgUrl} alt="" />
+      <img className='w-full ' src={import.meta.env.BASE_URL+ book.imgUrl} alt="" />
       <div className='flex justify-around items-center border-b-2'>
         <div className='flex flex-col'>
             <h1 className='text-lg font-bold'>{book.title}</h1>

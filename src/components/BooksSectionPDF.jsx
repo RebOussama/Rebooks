@@ -13,21 +13,21 @@ const BooksSectionPDF = ({title,books,author,imgURL}) => {
         item.categorie===title ? <CardBook/>:""
     )
 })} */}
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
-       <CardBookPDF imgURL={"../../../public/PDFPage/PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
+       <CardBookPDF imgURL={"./PDFbook.png" }title={"HARRY POTTER"} author={"J.K.ROWLING"}/>
        
        
        
